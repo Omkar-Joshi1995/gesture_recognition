@@ -37,5 +37,5 @@ In order to get the data on the storage, perform the following steps in order
      unzip Project_data.zip
 
 # Final Results using different Hyperparameters and architectures
-     ![table_image_pages-to-jpg-0001](https://user-images.githubusercontent.com/59884272/140683902-48e4a02a-bcd4-40fc-b5eb-641211a70beb.jpg)
+![table_image_pages-to-jpg-0001](https://github.com/Omkar-Joshi1995/gesture_recognition/blob/main/table_image_pages-to-jpg-0001.jpg?raw=True)
 
