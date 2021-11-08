@@ -35,3 +35,7 @@ In order to get the data on the storage, perform the following steps in order
      g0 down https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
      unzip Project_data.zip
+
+# Final Results using different Hyperparameters and architectures
+     ![table_image_pages-to-jpg-0001](https://user-images.githubusercontent.com/59884272/140683902-48e4a02a-bcd4-40fc-b5eb-641211a70beb.jpg)
+
